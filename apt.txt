@@ -1,1 +1,1 @@
-libxtst6:i386
+libxt6:i386
