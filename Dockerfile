@@ -1,4 +1,3 @@
-FROM tiagopeixoto/graph-tool:latest
 FROM python:3.7-slim
 # install the notebook package
 RUN pip install --no-cache --upgrade pip && \
