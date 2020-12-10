@@ -1,0 +1,6 @@
+name: temp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - graph-tool
